@@ -1,4 +1,4 @@
-# THOUSEEF ACADEMY: Neural Career Protocol v1.0
+# ACADEMY: Neural Career Protocol v1.0
 
 ![Platform Status](https://img.shields.io/badge/Status-Live-emerald)
 ![Tech Stack](https://img.shields.io/badge/Stack-React%20%7C%20Firebase%20%7C%20Razorpay-blue)
